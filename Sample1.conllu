@@ -529,10 +529,9 @@
 
 # sent_id = exo7-logique__144
 # text = Soit $n\in\Nn$.
-# tags = DONE
-1	Soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	2	cop	_	_
-2	$n\in\Nn$	$n\in\Nn$	X	_	ExtPos=PROPN	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
+1	Soit	être	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	$n\in\Nn$	$n\in\Nn$	X	_	ExtPos=PROPN	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = exo7-logique__157
 # text = Nous raisonnons par l'absurde en supposant que $\frac{a}{1+b}=\frac{b}{1+a}$ et $a\neqb$.
